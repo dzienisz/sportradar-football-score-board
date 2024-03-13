@@ -1,0 +1,26 @@
+{
+  "name": "sportradar-football-score-board",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "npm run test",
+    "build": "tsc src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzienisz/sportradar-football-score-board.git"
+  },
+  "keywords": [
+    "sportradar"
+  ],
+  "author": "Kamil Dzieniszewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzienisz/sportradar-football-score-board/issues"
+  },
+  "homepage": "https://github.com/dzienisz/sportradar-football-score-board#readme",
+  "dependencies": {
+    "typescript": "^5.4.2"
+  }
+}
